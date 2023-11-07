@@ -2,7 +2,7 @@
 
 ![## Hi there 👋, my name is Aaron!](https://raw.githubusercontent.com/aaronrockmenezes/aaronrockmenezes/main/header.png)
 
-![Aaron's Profile Views](https://komarev.com/ghpvc/?username=aaronrockmenezes&color=red&label=Profile+Views)
+![Aaron's Profile Views](https://komarev.com/ghpvc/?username=aaronrockmenezes&color=red&label=Profile+Views&color=DB7B7B)
 
 ## About Me:
 
