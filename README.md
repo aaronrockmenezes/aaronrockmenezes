@@ -18,3 +18,4 @@
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronrockmenezes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages:
+[![Aaron's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronrockmenezes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
