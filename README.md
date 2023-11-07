@@ -1,10 +1,20 @@
-## Hi there 👋, my name is Aaron!
-### I'm a 3rd year student at BITS Pilani, Goa Campus, pursuing a Master's in Biology and a Bachelor's in Electronics & Instumentation Engineering
+<!-- ## Hi there 👋, my name is Aaron! -->
+
+![## Hi there 👋, my name is Aaron!](https://raw.githubusercontent.com/aaronrockmenezes/aaronrockmenezes/main/header.png)
+
+![Aaron's Profile Views](https://komarev.com/ghpvc/?username=aaronrockmenezes&color=red&label=Profile+Views)
+
+## About Me:
+
 - 🔭 I’m currently working on RNA-Protein Interaction Prediction
+
 - 🌱 I’m currently learning about Computer Vision and Graph Neural Networks
-- 👯 I’m looking to collaborate on a multi channel time series seq2seq project
-- 📫 How to reach me: aaronrockmenezes@gmail.com
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: I watch a lot of anime
 
+## Profile Stats:
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronrockmenezes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Used Languages:
