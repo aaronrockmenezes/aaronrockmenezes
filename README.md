@@ -7,3 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a lot of anime
 
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronrockmenezes&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
