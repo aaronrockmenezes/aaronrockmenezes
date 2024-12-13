@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about Computer Vision and Drug Discovery
 
-- ⚡ Research intern at Deep Forest Sciences | Open Source contributor for DeepChem | Undergrad Researcher at APPCAIR, BITS Pilani Goa Campus
+- ⚡ Research intern @ Deep Forest Sciences | Open Source contributor @ DeepChem | Undergrad ML Researcher @ APPCAIR, BITS Pilani Goa
 
 - 😄 Fun fact: I watch a lot of anime
 
