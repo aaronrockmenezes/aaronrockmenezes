@@ -6,13 +6,13 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on RNA-Protein Interaction Prediction
+- 🔭 I’m currently working on RNA-Protein Interaction Prediction, Drug Discovery, Visual Perception
 
-- 🌱 I’m currently learning about Computer Vision and Graph Neural Networks
+- 🌱 I’m currently learning about Computer Vision and Drug Discovery
 
-- 😄 Pronouns: He/Him
+- ⚡ Research intern at Deep Forest Sciences | Open Source contributor for DeepChem | Undergrad Researcher at APPCAIR, BITS Pilani Goa Campus
 
-- ⚡ Fun fact: I watch a lot of anime
+- 😄 Fun fact: I watch a lot of anime
 
 ## Profile Stats:
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronrockmenezes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
